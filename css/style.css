@@ -1,0 +1,23 @@
+.header{
+    background-image:linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)),url(../peakpx.jpg);
+    background-position:cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+
+}
+
+.header h1,h4
+{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .btn{
+    background-color:#943D73;
+    color: white;
+  }
+  .btn:hover{
+    background-color: white;
+    color: #943D73;
+  }
+
